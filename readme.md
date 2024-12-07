@@ -1,4 +1,5 @@
-# This is the Parser for the Schedule project 
+# Event Parser
+This is the Parser for the Schedule project 
 still need some work
 
 ## Setup
@@ -17,9 +18,10 @@ What ever way you choose, you need to setup the setting in the config file (src/
 
 
 ## Plan for the future
-- add logger
-- error handling
-- better responses
-- tests
-- cleaner code
-- publish common models in a lib
+- Add logger
+- Error handling
+- Better responses
+- Tests
+- Cleaner code
+- Publish common models in a lib
+- Add docker file
