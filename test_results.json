@@ -1,0 +1,274 @@
+[
+  {
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.47,
+    "top_p": 0.25
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.782-03:00",
+        "end_datetime": "2024-11-19T19:00:00.782-03:00",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.61,
+    "top_p": 0.45
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.591+03:00",
+        "end_datetime": "2024-11-19T19:00:00.591+03:00",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.63,
+    "top_p": 0.09
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.21,
+    "top_p": 0.2
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.47,
+    "top_p": 0.2
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      },
+      {
+        "name": "Event Details",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": "Should be 1",
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.48,
+    "top_p": 0.41
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.37,
+    "top_p": 0.05
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.18,
+    "top_p": 0.18
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.32,
+    "top_p": 0.14
+  }
+},{
+  "response": {
+    "events": [
+      {
+        "name": "Meeting with Tom Koren and Tal Dokhnian",
+        "participants": [
+          "Tom Koren",
+          "Tal Dokhnian"
+        ],
+        "start_datetime": "2024-11-19T18:00:00.000Z",
+        "end_datetime": "2024-11-19T19:00:00.000Z",
+        "location": "Gym",
+        "description": "We are going to talk about life"
+      }
+    ]
+  },
+  "status_event_count": true,
+  "status_start_date": "Should be 2024-11-20 18:00:00",
+  "status_end_date": "Should be 2024-11-20 19:00:00",
+  "status_location": true,
+  "status_description": true,
+  "status_participants": true,
+  "options": {
+    "temperature": 0.78,
+    "top_p": 0.45
+  }
+}
+]
